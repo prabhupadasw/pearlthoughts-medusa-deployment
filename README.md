@@ -13,7 +13,7 @@ This project sets up and deploys the [Medusa backend](https://medusajs.com/) on 
 
 ---
 
-## 📦 What It Does
+##  What It Does
 
 - Provisions:
   - ECS Cluster
@@ -24,11 +24,11 @@ This project sets up and deploys the [Medusa backend](https://medusajs.com/) on 
   - CloudWatch log group
 
 
-## 📁 Folder Structure
+##  Folder Structure
 medusa-ecs-terraform/ └── terraform/ ├── main.tf # Main Terraform configuration (ECS, IAM, networking, etc.) ├── .gitignore # Ignoring sensitive or unnecessary Terraform files └── README.md 
 
 
-🚀 Deployment Steps
+ Deployment Steps
 
 1. Navigate into the `terraform` directory  
 2. Initialize Terraform  
